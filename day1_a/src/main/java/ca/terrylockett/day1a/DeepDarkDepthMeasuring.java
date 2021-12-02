@@ -1,10 +1,6 @@
-package ca.terrylockett;
+package ca.terrylockett.day1a;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.NoSuchElementException;
-import java.util.Objects;
-import java.util.Scanner;
 
 public class DeepDarkDepthMeasuring {
 

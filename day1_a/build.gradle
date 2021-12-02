@@ -20,6 +20,6 @@ test {
 
 
 application {
-    mainClass = 'ca.terrylockett.DeepDarkDepthMeasuring'
+    mainClass = 'ca.terrylockett.day1a.DeepDarkDepthMeasuring'
 }
 

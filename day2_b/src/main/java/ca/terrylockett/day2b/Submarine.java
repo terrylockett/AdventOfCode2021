@@ -1,8 +1,5 @@
 package ca.terrylockett.day2b;
 
-/**
- *  class to
- */
 public class Submarine {
 
     private int forward = 0;
